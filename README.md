@@ -2,9 +2,10 @@
 
 ### Submitted By: Aasif Ali
 
-# Correct the code according to the Clean Code concepts
+## Correct the code according to the Clean Code concepts
 
-## Code is:
+
+**Code is**:
 
 public class B {
 static class C {
