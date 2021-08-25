@@ -1,6 +1,6 @@
 # Clean-Code-Assignment
 
-* Submitted By: Aasif Ali
+### Submitted By: Aasif Ali
 
 # Correct the code according to the Clean Code concepts
 
